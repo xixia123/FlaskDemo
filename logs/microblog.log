@@ -72,3 +72,8 @@ sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed
 2021-12-31 00:37:43,107 INFO: Microblog startup [in D:\KnowledgeGraph\PythonProject\NewGraduationProject\flask_demo\app\__init__.py:44]
 2021-12-31 00:48:36,434 INFO: Microblog startup [in D:\KnowledgeGraph\PythonProject\NewGraduationProject\flask_demo\app\__init__.py:44]
 2021-12-31 00:51:51,676 INFO: Microblog startup [in D:\KnowledgeGraph\PythonProject\NewGraduationProject\flask_demo\app\__init__.py:44]
+2022-01-06 14:18:06,488 INFO: Microblog startup [in D:\KnowledgeGraph\PythonProject\NewGraduationProject\flask_demo\app\__init__.py:44]
+2022-01-06 14:25:10,565 INFO: Microblog startup [in D:\KnowledgeGraph\PythonProject\NewGraduationProject\flask_demo\app\__init__.py:44]
+2022-01-06 14:30:17,889 INFO: Microblog startup [in D:\KnowledgeGraph\PythonProject\NewGraduationProject\flask_demo\app\__init__.py:44]
+2022-01-06 14:30:57,064 INFO: Microblog startup [in D:\KnowledgeGraph\PythonProject\NewGraduationProject\flask_demo\app\__init__.py:44]
+2022-01-06 14:31:40,355 INFO: Microblog startup [in D:\KnowledgeGraph\PythonProject\NewGraduationProject\flask_demo\app\__init__.py:44]
